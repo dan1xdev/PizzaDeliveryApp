@@ -11,8 +11,8 @@
 - **Чистая архитектура** – MVVM, SwiftUI  
 
 ## 📱 Видео работы  
-https://youtu.be/lprbFIBT4g8
-https://rutube.ru/video/private/e8ba1b58a504bc67b34eb9f27b8f531b/?p=CO8boBwMp3DVegFLoNHofw
+- https://youtu.be/lprbFIBT4g8
+- https://rutube.ru/video/private/e8ba1b58a504bc67b34eb9f27b8f531b/?p=CO8boBwMp3DVegFLoNHofw
 
 ## 🛠 Технологии  
 - **SwiftUI** – построение интерфейсов  
