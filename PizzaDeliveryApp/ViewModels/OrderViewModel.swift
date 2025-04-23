@@ -27,8 +27,8 @@ class OrderViewModel: ObservableObject {
         isSending = true
         showError = false
 
-        let token = "7590491235:AAHmGbiv1dN2GZ86UR6l-UhjrQ01QJe7pOM"
-        let chatID = "681290955"
+        let token = "token"
+        let chatID = "chatid"
 
         var message = "🛒 Новый заказ:\n"
         for pos in basketViewModel.positions {
